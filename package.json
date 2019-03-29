@@ -1,0 +1,25 @@
+{
+  "name": "es-lint",
+  "version": "1.0.0",
+  "description": "ESLint installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molodaneporochnacubinka/lecture2task3.git"
+  },
+  "author": "anouk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molodaneporochnacubinka/lecture2task3/issues"
+  },
+  "homepage": "https://github.com/molodaneporochnacubinka/lecture2task3#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
